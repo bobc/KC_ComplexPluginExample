@@ -1,0 +1,11 @@
+bobc-ComplexPluginExample:
+  description: ComplexPlugin example
+  packages:
+  - content:
+    - name: ComplexPluginExample
+      checksum: "SHA-256:6e8d712474a417b125d5d84f67e551b11fb10079f45199e1d86911d4d07f8092"
+      size: 1268
+      type: script
+      url: https://raw.githubusercontent.com/bobc/KC_ComplexPluginExample/master/complex_plugin_example-0.1.0.zip
+    version: '0.1.0'
+  publisher: bobc
